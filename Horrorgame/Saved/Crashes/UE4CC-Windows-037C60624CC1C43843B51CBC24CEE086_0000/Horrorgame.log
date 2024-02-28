@@ -1,0 +1,1242 @@
+﻿Log file open, 02/24/23 11:51:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: F:/Horror game/Horrorgame/Horrorgame.uproject
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.197811
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.24-06.21.27:012][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.24-06.21.27:012][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.24-06.21.27:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:015][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:026][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.24-06.21.27:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.02.24-06.21.27:027][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.02.24-06.21.27:029][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.24-06.21.27:029][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.24-06.21.27:040][  0]LogHAL: Display: Platform has ~ 16 GB [17073356800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.24-06.21.27:040][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.24-06.21.27:040][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.24-06.21.27:040][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.24-06.21.27:040][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.24-06.21.27:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.24-06.21.27:042][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.02.24-06.21.27:043][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.24-06.21.27:046][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.24-06.21.27:046][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.24-06.21.27:046][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Horror game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2023.02.24-06.21.27:047][  0]LogInit: Computer: DESKTOP-612FG3T
+[2023.02.24-06.21.27:047][  0]LogInit: User: SASHREEK
+[2023.02.24-06.21.27:047][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.02.24-06.21.27:047][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.24-06.21.27:047][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.02.24-06.21.27:047][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.24-06.21.27:047][  0]LogMemory: Process Physical Memory: 105.05 MB used, 105.06 MB peak
+[2023.02.24-06.21.27:047][  0]LogMemory: Process Virtual Memory: 99.38 MB used, 99.38 MB peak
+[2023.02.24-06.21.27:047][  0]LogMemory: Physical Memory: 5119.67 MB used,  11162.75 MB free, 16282.42 MB total
+[2023.02.24-06.21.27:047][  0]LogMemory: Virtual Memory: 5116.76 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2023.02.24-06.21.27:059][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.24-06.21.27:399][  0]LogInit: Using OS detected language (en-US).
+[2023.02.24-06.21.27:399][  0]LogInit: Using OS detected locale (en-IN).
+[2023.02.24-06.21.27:401][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.02.24-06.21.28:038][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.24-06.21.28:154][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.24-06.21.28:154][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.24-06.21.29:201][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.24-06.21.29:201][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.24-06.21.29:201][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.24-06.21.29:923][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M440' (Feature Level 11_0)
+[2023.02.24-06.21.29:923][  0]LogD3D11RHI:       4086/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.02.24-06.21.29:963][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2023.02.24-06.21.29:963][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.24-06.21.29:966][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.24-06.21.29:966][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.24-06.21.29:966][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.24-06.21.29:978][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.24-06.21.29:979][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.24-06.21.29:979][  0]LogWindows: EnumDisplayDevices:
+[2023.02.24-06.21.29:979][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2023.02.24-06.21.29:979][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2023.02.24-06.21.29:980][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2023.02.24-06.21.29:980][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.02.24-06.21.29:980][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M440
+[2023.02.24-06.21.29:980][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.02.24-06.21.29:980][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.02.24-06.21.29:980][  0]LogRHI: Texture pool is 2860 MB (70% of 4086 MB)
+[2023.02.24-06.21.30:105][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2023.02.24-06.21.30:105][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.24-06.21.30:165][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2023.02.24-06.21.31:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2023.02.24-06.21.31:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.24-06.21.31:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.24-06.21.32:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.24-06.21.32:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.24-06.21.32:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.24-06.21.32:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.24-06.21.32:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.24-06.21.32:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.24-06.21.32:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.24-06.21.32:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.24-06.21.32:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.24-06.21.32:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.24-06.21.32:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.24-06.21.32:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.24-06.21.32:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.24-06.21.32:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.24-06.21.32:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.24-06.21.32:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.24-06.21.32:206][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.24-06.21.32:234][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.24-06.21.32:491][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (F:/Horror game/Horrorgame/Intermediate/Shaders/WorkingDirectory/16088/).
+[2023.02.24-06.21.32:492][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SASHREEK/AppData/Local/Temp/UnrealShaderWorkingDir/6654C21C4760EA22C136D287C3B01342/'.
+[2023.02.24-06.21.32:500][  0]LogXGEController: Cleaning working directory: C:/Users/SASHREEK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.24-06.21.32:501][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.24-06.21.32:501][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.24-06.21.32:501][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.24-06.21.33:695][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.24-06.21.34:013][  0]LogDerivedDataCache: Loaded boot cache 0.32s 78MB C:/Users/SASHREEK/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2023.02.24-06.21.34:013][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SASHREEK/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2023.02.24-06.21.34:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Horror game/Horrorgame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.24-06.21.34:014][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.24-06.21.34:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Horror game/Horrorgame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.24-06.21.34:014][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.24-06.21.34:035][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.24-06.21.34:036][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.24-06.21.34:036][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.24-06.21.34:038][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SASHREEK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.24-06.21.34:038][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.24-06.21.34:038][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.24-06.21.34:072][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.02.24-06.21.34:090][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.24-06.21.34:103][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.24-06.21.34:461][  0]LogAssetRegistry: FAssetRegistry took 0.0098 seconds to start up
+[2023.02.24-06.21.35:174][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.24-06.21.35:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.24-06.21.35:664][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.24-06.21.35:664][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.24-06.21.35:664][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.24-06.21.35:664][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.24-06.21.35:730][  0]LogNetVersion: Horrorgame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3645283032)
+[2023.02.24-06.21.40:896][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.058798 seconds
+[2023.02.24-06.21.40:905][  0]LogUObjectArray: 46288 objects as part of root set at end of initial load.
+[2023.02.24-06.21.40:905][  0]LogUObjectAllocator: 8062376 out of 0 bytes used by permanent object pool.
+[2023.02.24-06.21.40:905][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.24-06.21.42:488][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.24-06.21.42:507][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.24-06.21.42:811][  0]SourceControl: Source control is disabled
+[2023.02.24-06.21.42:813][  0]SourceControl: Source control is disabled
+[2023.02.24-06.21.42:848][  0]SourceControl: Source control is disabled
+[2023.02.24-06.21.42:872][  0]SourceControl: Source control is disabled
+[2023.02.24-06.21.42:888][  0]SourceControl: Source control is disabled
+[2023.02.24-06.21.42:919][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.24-06.21.42:920][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.24-06.21.43:556][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.24-06.21.43:612][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.24-06.21.43:612][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.24-06.21.43:936][  0]LogOcInput: OculusInput pre-init called
+[2023.02.24-06.21.43:971][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.02.24-06.21.43:971][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.02.24-06.21.44:243][  0]LogEngine: Initializing Engine...
+[2023.02.24-06.21.44:254][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.005 s
+[2023.02.24-06.21.44:713][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.24-06.21.44:811][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.24-06.21.44:845][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.24-06.21.44:845][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.24-06.21.44:847][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.24-06.21.44:847][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Name: Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Is Default: Yes
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Sample Rate: 44100
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: Channel Order:
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.24-06.21.44:910][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.24-06.21.45:166][  0]LogAudioMixer: Display: Using Audio Device Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.21.45:188][  0]LogInit: FAudioDevice initialized.
+[2023.02.24-06.21.45:188][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.24-06.21.45:326][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/SASHREEK/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2023.02.24-06.21.45:327][  0]LogInit: Texture streaming: Enabled
+[2023.02.24-06.21.45:372][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.24-06.21.45:372][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.24-06.21.45:375][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.24-06.21.45:449][  0]LogInit: Transaction tracking system initialized
+[2023.02.24-06.21.45:551][  0]BlueprintLog: New page: Editor Load
+[2023.02.24-06.21.45:894][  0]LocalizationService: Localization service is disabled
+[2023.02.24-06.21.46:200][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.24-06.21.46:201][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.24-06.21.46:599][  0]LogFileCache: Scanning file cache for directory 'F:/Horror game/Horrorgame/Content/' took 0.01s
+[2023.02.24-06.21.46:599][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.02.24-06.21.46:599][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.24-06.21.47:471][  0]SourceControl: Source control is disabled
+[2023.02.24-06.21.47:475][  0]Cmd: MAP LOAD FILE="F:/Horror game/Horrorgame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.24-06.21.47:481][  0]LightingResults: New page: Lighting Build
+[2023.02.24-06.21.47:495][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.21.47:497][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.21.47:498][  0]MapCheck: New page: Map Check
+[2023.02.24-06.21.47:499][  0]LightingResults: New page: Lighting Build
+[2023.02.24-06.21.47:547][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.02.24-06.21.48:047][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.02.24-06.21.48:095][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.24-06.21.48:129][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.24-06.21.48:129][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.24-06.21.48:130][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.716ms to complete.
+[2023.02.24-06.21.48:130][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.657
+[2023.02.24-06.21.48:422][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.21.48:431][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.21.48:439][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.21.48:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.21.48:495][  0]LogCollectionManager: Loaded 0 collections in 0.001045 seconds
+[2023.02.24-06.21.48:559][  0]LogFileCache: Scanning file cache for directory 'F:/Horror game/Horrorgame/Saved/Collections/' took 0.00s
+[2023.02.24-06.21.48:559][  0]LogFileCache: Scanning file cache for directory 'F:/Horror game/Horrorgame/Content/Developers/SASHREEK/Collections/' took 0.00s
+[2023.02.24-06.21.48:559][  0]LogFileCache: Scanning file cache for directory 'F:/Horror game/Horrorgame/Content/Collections/' took 0.00s
+[2023.02.24-06.21.48:559][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3009 classes and 710 folders.
+[2023.02.24-06.21.48:577][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.24-06.21.48:857][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.24-06.21.48:891][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2023.02.24-06.21.49:122][  0]LogSlate: Took 0.002806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.24-06.21.49:128][  0]LogSlate: Took 0.002331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.24-06.21.49:137][  0]LogSlate: Took 0.002149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.24-06.21.49:287][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2023.02.24-06.21.49:572][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.24-06.21.49:573][  0]LogLoad: (Engine Initialization) Total time: 25.97 seconds
+[2023.02.24-06.21.49:573][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.24-06.21.49:659][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.24-06.21.50:072][  6]LogAssetRegistry: Asset discovery search completed in 15.6133 seconds
+[2023.02.24-06.21.50:080][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2023.02.24-06.21.53:684][220]LogSlate: Took 0.001754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.24-06.22.00:215][597]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.24-06.22.00:956][597]LogAIModule: Creating AISystem for world Level1
+[2023.02.24-06.22.00:975][597]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2023.02.24-06.22.01:001][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.24-06.22.01:016][597]Cmd: MAP LOAD FILE="F:/Horror game/Horrorgame/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.24-06.22.01:016][597]LightingResults: New page: Lighting Build
+[2023.02.24-06.22.01:017][597]LoadErrors: New page: Loading map: Level1.umap
+[2023.02.24-06.22.01:019][597]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.22.01:019][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.22.01:019][597]MapCheck: New page: Map Check
+[2023.02.24-06.22.01:019][597]LightingResults: New page: Lighting Build
+[2023.02.24-06.22.01:050][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.02.24-06.22.01:079][597]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.24-06.22.01:101][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.24-06.22.01:126][597]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.24-06.22.01:126][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2023.02.24-06.22.01:126][597]LogFileHelpers: Loading map 'Level1' took 0.115
+[2023.02.24-06.22.03:889][732]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.24-06.22.03:906][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.24-06.22.03:907][732]PIE: New page: PIE session: Level1 (24-Feb-2023, 5:22:03 pm)
+[2023.02.24-06.22.03:913][732]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.24-06.22.03:915][732]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.24-06.22.03:916][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.22.03:924][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006694s)
+[2023.02.24-06.22.03:925][732]LogAIModule: Creating AISystem for world Level1
+[2023.02.24-06.22.03:925][732]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2023.02.24-06.22.03:925][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.008897s)
+[2023.02.24-06.22.03:948][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.24-06.22.03:950][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.24-06.22.03:950][732]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.24-06.22.03:950][732]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Name: Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Is Default: Yes
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Sample Rate: 44100
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Channel Count Used: 2
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Device Channel Count: 2
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: Channel Order:
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.24-06.22.03:969][732]LogAudioMixer: Display: 1: FrontRight
+[2023.02.24-06.22.03:987][732]LogAudioMixer: Display: Using Audio Device Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.22.03:989][732]LogInit: FAudioDevice initialized.
+[2023.02.24-06.22.04:042][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.22.04:047][732]LogLoad: Game class is 'L1_GameMode_C'
+[2023.02.24-06.22.04:052][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.02.24-11.52.04
+[2023.02.24-06.22.04:055][732]LogWorld: Bringing up level for play took: 0.005482
+[2023.02.24-06.22.04:055][732]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2023.02.24-06.22.04:091][732]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:126][732]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.22.04:131][732]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.848
+[2023.02.24-06.22.04:177][733]LogRenderer: Reallocating scene render targets to support 1528x840 Format 10 NumSamples 1 (Frame:1).
+[2023.02.24-06.22.41:414][471]LogBlueprintUserMessages: [BP_InventoryItem_FlashlightBattery_C_0] used battery
+[2023.02.24-06.23.00:174][848]LogBlueprintUserMessages: [BP_InventoryItem_FlashlightBattery_C_0] used battery
+[2023.02.24-06.23.19:944][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.19:944][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.19:947][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.23.19:947][237]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.23.19:964][237]LogSlate: Window 'Horrorgame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.02.24-06.23.20:042][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.20:043][237]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.23.20:044][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.23.20:083][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.24-06.23.20:092][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.23.20:118][237]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.20:133][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.02.24-06.23.20:162][238]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.02.24-06.23.21:052][279]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.24-06.23.21:063][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.24-06.23.21:064][279]PIE: New page: PIE session: Level1 (24-Feb-2023, 5:23:21 pm)
+[2023.02.24-06.23.21:064][279]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.23.21:071][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006815s)
+[2023.02.24-06.23.21:074][279]LogAIModule: Creating AISystem for world Level1
+[2023.02.24-06.23.21:074][279]LogPlayLevel: PIE: World Init took: (0.002455s)
+[2023.02.24-06.23.21:074][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.009617s)
+[2023.02.24-06.23.21:099][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.24-06.23.21:100][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.24-06.23.21:100][279]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.24-06.23.21:100][279]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Name: Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Is Default: Yes
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Sample Rate: 44100
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Channel Count Used: 2
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Device Channel Count: 2
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: Channel Order:
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.24-06.23.21:117][279]LogAudioMixer: Display: 1: FrontRight
+[2023.02.24-06.23.21:132][279]LogAudioMixer: Display: Using Audio Device Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.23.21:134][279]LogInit: FAudioDevice initialized.
+[2023.02.24-06.23.21:178][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.23.21:178][279]LogLoad: Game class is 'L1_GameMode_C'
+[2023.02.24-06.23.21:182][279]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.02.24-11.53.21
+[2023.02.24-06.23.21:182][279]LogWorld: Bringing up level for play took: 0.003007
+[2023.02.24-06.23.21:182][279]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:206][279]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.23.21:208][279]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.074
+[2023.02.24-06.23.25:840][365]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.02.24-06.23.25:950][367]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.02.24-06.23.26:064][369]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.02.24-06.23.26:179][371]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.02.24-06.23.26:239][372]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.02.24-06.23.26:355][374]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.02.24-06.23.29:315][428]LogBlueprintUserMessages: [BPC_Inventory] No free slots!
+[2023.02.24-06.23.31:444][468]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.02.24-06.23.31:498][469]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.02.24-06.23.31:498][469]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.02.24-06.23.31:549][470]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.02.24-06.23.31:549][470]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.02.24-06.23.31:603][471]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.02.24-06.23.51:683][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.51:683][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.51:684][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.23.51:684][832]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.23.51:701][832]LogSlate: Window 'Horrorgame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.02.24-06.23.51:795][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.51:796][832]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.23.51:797][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.23.51:842][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.24-06.23.51:846][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.23.51:868][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.23.51:878][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.24-06.23.51:894][833]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.02.24-06.24.25:361][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.24-06.24.25:371][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.24-06.24.25:372][ 81]PIE: New page: PIE session: Level1 (24-Feb-2023, 5:24:25 pm)
+[2023.02.24-06.24.25:373][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.24.25:378][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004784s)
+[2023.02.24-06.24.25:379][ 81]LogAIModule: Creating AISystem for world Level1
+[2023.02.24-06.24.25:380][ 81]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2023.02.24-06.24.25:380][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006646s)
+[2023.02.24-06.24.25:409][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.24-06.24.25:410][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.24-06.24.25:410][ 81]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.24-06.24.25:410][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Name: Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Is Default: Yes
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Sample Rate: 44100
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Channel Count Used: 2
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Device Channel Count: 2
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: Channel Order:
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.24-06.24.25:430][ 81]LogAudioMixer: Display: 1: FrontRight
+[2023.02.24-06.24.25:445][ 81]LogAudioMixer: Display: Using Audio Device Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.24.25:448][ 81]LogInit: FAudioDevice initialized.
+[2023.02.24-06.24.25:492][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.24.25:493][ 81]LogLoad: Game class is 'L1_GameMode_C'
+[2023.02.24-06.24.25:496][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.02.24-11.54.25
+[2023.02.24-06.24.25:497][ 81]LogWorld: Bringing up level for play took: 0.003201
+[2023.02.24-06.24.25:497][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.02.24-06.24.25:520][ 81]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:521][ 81]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.24.25:525][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.242
+[2023.02.24-06.24.28:140][134]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.02.24-06.24.28:250][136]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.02.24-06.24.28:358][138]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.02.24-06.24.28:464][140]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.02.24-06.24.28:568][142]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.02.24-06.24.28:674][144]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.02.24-06.24.28:781][146]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.02.24-06.24.28:838][147]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.02.24-06.24.28:958][149]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.02.24-06.24.29:069][151]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.02.24-06.24.29:177][153]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.02.24-06.24.29:232][154]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.02.24-06.24.29:344][156]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.02.24-06.24.34:484][252]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.02.24-06.24.34:540][253]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.02.24-06.24.34:540][253]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.02.24-06.24.34:595][254]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.02.24-06.24.34:595][254]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.02.24-06.24.34:648][255]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.02.24-06.24.34:648][255]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.02.24-06.24.34:705][256]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.02.24-06.24.34:758][257]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.02.24-06.24.34:758][257]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.02.24-06.24.34:809][258]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.02.24-06.24.34:809][258]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.02.24-06.24.34:870][259]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.02.24-06.24.56:190][652]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.24.56:190][652]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.24.56:191][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.24.56:191][652]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.24.56:207][652]LogSlate: Window 'Horrorgame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.02.24-06.24.56:293][652]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.24.56:293][652]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.24.56:294][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.24.56:336][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.24-06.24.56:344][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.24.56:367][652]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.24.56:379][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.24-06.24.56:403][653]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.02.24-06.25.29:397][863]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.24-06.25.29:411][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.24-06.25.29:412][863]PIE: New page: PIE session: Level1 (24-Feb-2023, 5:25:29 pm)
+[2023.02.24-06.25.29:412][863]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.25.29:419][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006419s)
+[2023.02.24-06.25.29:420][863]LogAIModule: Creating AISystem for world Level1
+[2023.02.24-06.25.29:420][863]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2023.02.24-06.25.29:420][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.008396s)
+[2023.02.24-06.25.29:446][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.24-06.25.29:447][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.24-06.25.29:447][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.24-06.25.29:448][863]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.24-06.25.29:448][863]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Name: Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Is Default: Yes
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Sample Rate: 44100
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Channel Count Used: 2
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Device Channel Count: 2
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: Channel Order:
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.24-06.25.29:471][863]LogAudioMixer: Display: 1: FrontRight
+[2023.02.24-06.25.29:488][863]LogAudioMixer: Display: Using Audio Device Headphones (realme Buds Air 2 Stereo)
+[2023.02.24-06.25.29:490][863]LogInit: FAudioDevice initialized.
+[2023.02.24-06.25.29:528][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.25.29:528][863]LogLoad: Game class is 'L1_GameMode_C'
+[2023.02.24-06.25.29:531][863]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.02.24-11.55.29
+[2023.02.24-06.25.29:531][863]LogWorld: Bringing up level for play took: 0.002932
+[2023.02.24-06.25.29:532][863]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.02.24-06.25.29:562][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:563][863]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.02.24-06.25.29:566][863]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.284
+[2023.02.24-06.25.30:763][887]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.02.24-06.25.30:865][889]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.02.24-06.25.30:967][891]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.02.24-06.25.31:071][893]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.02.24-06.25.31:174][895]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.02.24-06.25.31:291][897]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.02.24-06.25.31:385][899]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.02.24-06.25.31:489][901]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.02.24-06.25.31:595][903]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.02.24-06.25.31:701][905]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.02.24-06.25.31:806][907]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.02.24-06.25.31:912][909]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.02.24-06.25.31:966][910]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.02.24-06.25.32:070][912]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.02.24-06.25.32:176][914]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.02.24-06.25.32:283][916]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.02.24-06.25.32:389][918]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.02.24-06.25.36:656][999]LogBlueprintUserMessages: [BPC_Inventory] No free slots!
+[2023.02.24-06.25.37:508][ 15]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.02.24-06.25.37:561][ 16]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.02.24-06.25.37:561][ 16]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.02.24-06.25.37:614][ 17]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.02.24-06.25.37:614][ 17]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.02.24-06.25.37:668][ 18]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.02.24-06.25.37:668][ 18]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.02.24-06.25.37:721][ 19]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.02.24-06.25.37:775][ 20]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.02.24-06.25.37:775][ 20]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.02.24-06.25.37:829][ 21]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.02.24-06.25.37:829][ 21]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.02.24-06.25.37:882][ 22]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.02.24-06.25.37:882][ 22]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.02.24-06.25.37:936][ 23]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.02.24-06.25.37:989][ 24]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.02.24-06.25.37:989][ 24]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.02.24-06.25.41:770][ 95]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.25.41:770][ 95]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.25.41:771][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-06.25.41:771][ 95]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.02.24-06.25.41:783][ 95]LogSlate: Window 'Horrorgame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.02.24-06.25.41:875][ 95]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.25.41:876][ 95]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.25.41:876][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.25.41:918][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.24-06.25.41:925][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.25.41:949][ 95]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.02.24-06.25.41:959][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2023.02.24-06.25.41:970][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.02.24-06.26.37:655][466]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/S_ItemData.S_ItemData
+[2023.02.24-06.27.19:816][327]LogSlate: Took 0.002437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.24-06.27.49:385][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structs/S_ItemData" FILE="F:/Horror game/Horrorgame/Content/Blueprints/Structs/S_ItemData.uasset" SILENT=true
+[2023.02.24-06.27.49:480][160]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/S_ItemData1C72940B4D3E7FE5C8963EAD826DF7D8.tmp' to 'F:/Horror game/Horrorgame/Content/Blueprints/Structs/S_ItemData.uasset'
+[2023.02.24-06.27.49:501][160]AssetCheck: New page: Asset Save: S_ItemData
+[2023.02.24-06.27.49:501][160]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structs/S_ItemData.S_ItemData
+[2023.02.24-06.27.50:201][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structs/S_ItemData" FILE="F:/Horror game/Horrorgame/Content/Blueprints/Structs/S_ItemData.uasset" SILENT=true
+[2023.02.24-06.27.50:214][199]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/S_ItemData57BC90094466A44C9CA52FA30705ECFC.tmp' to 'F:/Horror game/Horrorgame/Content/Blueprints/Structs/S_ItemData.uasset'
+[2023.02.24-06.27.50:225][199]AssetCheck: New page: Asset Save: S_ItemData
+[2023.02.24-06.27.50:226][199]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structs/S_ItemData.S_ItemData
+[2023.02.24-06.28.12:358][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master.BP_InventoryItem_Master
+[2023.02.24-06.28.12:555][694]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2023.02.24-06.28.13:500][694]LogSlate: Took 0.001989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.24-06.28.13:586][695]LogSlate: Took 0.001388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.24-06.28.17:328][782]BlueprintLog: New page: Compile BP_InventoryItem_Master
+[2023.02.24-06.28.17:561][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.02.24-06.28.20:451][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master" FILE="F:/Horror game/Horrorgame/Content/Blueprints/Actors/Inventory/BP_InventoryItem_Master.uasset" SILENT=true
+[2023.02.24-06.28.20:474][852]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/BP_InventoryItem_MasterF2631C1D4CB5E35A4015BB89CDBA670C.tmp' to 'F:/Horror game/Horrorgame/Content/Blueprints/Actors/Inventory/BP_InventoryItem_Master.uasset'
+[2023.02.24-06.28.20:495][852]AssetCheck: New page: Asset Save: BP_InventoryItem_Master
+[2023.02.24-06.28.20:495][852]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master.BP_InventoryItem_Master
+[2023.02.24-06.28.47:242][ 32]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_FlashlightBattery.BP_InventoryItem_FlashlightBattery
+[2023.02.24-06.29.47:780][106]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey.BP_InventoryItem_DoorKey
+[2023.02.24-06.30.10:450][721]BlueprintLog: New page: Compile BP_InventoryItem_DoorKey
+[2023.02.24-06.30.10:732][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.02.24-06.30.13:028][838]BlueprintLog: New page: Compile BP_InventoryItem_FlashlightBattery
+[2023.02.24-06.30.13:299][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.02.24-06.30.13:641][852]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/BP_InventoryItem_FlashlightBatte39A5DBFB42A02F491CA754BA26F64477.tmp' to 'F:/Horror game/Horrorgame/Content/Blueprints/Actors/Inventory/BP_InventoryItem_FlashlightBattery.uasset'
+[2023.02.24-06.30.13:665][852]AssetCheck: New page: Asset Save: BP_InventoryItem_FlashlightBattery
+[2023.02.24-06.30.13:665][852]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_FlashlightBattery.BP_InventoryItem_FlashlightBattery
+[2023.02.24-06.30.47:326][249]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu
+[2023.02.24-06.30.48:429][249]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_1.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.30.51:100][360]LogSlate: Window 'W_InventoryMenu' being destroyed
+[2023.02.24-06.30.53:352][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey" FILE="F:/Horror game/Horrorgame/Content/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey.uasset" SILENT=true
+[2023.02.24-06.30.53:375][479]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/BP_InventoryItem_DoorKey019B355D44C63D90CB1E48B4C5B7A913.tmp' to 'F:/Horror game/Horrorgame/Content/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey.uasset'
+[2023.02.24-06.30.53:394][479]AssetCheck: New page: Asset Save: BP_InventoryItem_DoorKey
+[2023.02.24-06.30.53:394][479]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey.BP_InventoryItem_DoorKey
+[2023.02.24-06.31.17:072][930]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_2.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.34.47:357][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2023.02.24-06.34.47:357][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.082
+[2023.02.24-06.34.47:358][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([1] browsable assets)...
+[2023.02.24-06.34.47:358][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.02.24-06.34.47:484][ 61]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/BPC_Inventory_Auto1B00FD33B41FA7EDDC7389F856790BF03.tmp' to 'F:/Horror game/Horrorgame/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto1.uasset'
+[2023.02.24-06.34.47:486][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/Inventory/W_InventoryMenu] ([1] browsable assets)...
+[2023.02.24-06.34.47:486][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryMenu]
+[2023.02.24-06.34.47:486][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryMenu" FILE="F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.24-06.34.47:531][ 61]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventoryMenu_Auto1DAA97A7D4124357712BC73B41B9AE464.tmp' to 'F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto1.uasset'
+[2023.02.24-06.34.47:532][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/Inventory/W_InventoryDropDown] ([1] browsable assets)...
+[2023.02.24-06.34.47:532][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryDropDown]
+[2023.02.24-06.34.47:532][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryDropDown" FILE="F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.24-06.34.47:578][ 61]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventoryDropDown_Auto10DF43B38427F5506D9C58287D71BC00A.tmp' to 'F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto1.uasset'
+[2023.02.24-06.34.47:580][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/Inventory/W_InventorySlot] ([1] browsable assets)...
+[2023.02.24-06.34.47:580][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventorySlot]
+[2023.02.24-06.34.47:580][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventorySlot" FILE="F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.24-06.34.47:619][ 61]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventorySlot_Auto1489B5AD441F6445EEAF36C96C329E626.tmp' to 'F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto1.uasset'
+[2023.02.24-06.34.47:620][ 61]LogFileHelpers: Auto-saving content packages took 0.263
+[2023.02.24-06.34.59:496][642]LogSlate: Took 0.019763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.24-06.34.59:516][642]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_3.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.35.05:741][748]Cmd: TRANSACTION UNDO
+[2023.02.24-06.35.05:741][748]LogEditorTransaction: Undo Move Widget
+[2023.02.24-06.35.05:810][748]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_4.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.35.18:006][ 97]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_5.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.35.57:300][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2023.02.24-06.36.11:058][997]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.11:058][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.11:081][997]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.11:081][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.14:672][170]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid
+[2023.02.24-06.36.14:996][170]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_12:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.36.19:151][414]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.19:152][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.19:167][414]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.19:167][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.21:285][519]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_PickupPrompt.W_PickUpPrompt
+[2023.02.24-06.36.23:369][624]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.23:369][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.23:385][624]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.23:385][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.27:791][862]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryDropDown.W_InventoryDropDown
+[2023.02.24-06.36.35:873][318]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.35:873][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.36.35:894][318]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.36.35:894][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.37.11:400][299]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryDropDown.W_InventoryDropDown
+[2023.02.24-06.37.15:436][518]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.37.15:436][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.37.15:441][518]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-06.37.15:442][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-06.37.41:631][312]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_6.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.37.54:155][694]Cmd: TRANSACTION UNDO
+[2023.02.24-06.37.54:155][694]LogEditorTransaction: Undo Add Widget
+[2023.02.24-06.37.54:227][694]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_7.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.37.57:858][881]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_8.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.38.44:202][275]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_9.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.38.48:077][424]Cmd: TRANSACTION UNDO
+[2023.02.24-06.38.48:077][424]LogEditorTransaction: Undo Add Widget
+[2023.02.24-06.38.48:144][424]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_10.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.38.50:943][569]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_11.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.39.08:264][144]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_12.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.39.16:402][286]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_13.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.41.56:486][278]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.24-06.41.57:480][278]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.994 s
+[2023.02.24-06.41.57:480][278]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.24-06.41.57:480][278]LogOutputDevice: Error: 
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: SObjectWidget for 'W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_9.WidgetTree_0.W_InventoryGrid' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: Stack: 
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb55645d0e UE4Editor-UMG.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb554af7a6 UE4Editor-UMG.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb581bf55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58143edc UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58136bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb581bf55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5813f99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58136ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb581bf55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5878e40e UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5877be98 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58781219 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5557415b UE4Editor-UMG.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5a1db4b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5a1b807e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5a0ac308 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5a0ab53c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb570ea142 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb57111fbb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb4ccf18ca UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb4cdf37fe UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb4cd99864 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58731498 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58749281 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb585a323f UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58629175 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb5861413e UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb58608f67 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb59b94ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb59b8242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb59b97195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb59b7ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffbc6eee7e8 USER32.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffbc6eee229 USER32.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffb59b98699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3b6db0 UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3cc3ec UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3cc4ca UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3dceae UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3dfcbe UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffbc71b7614 KERNEL32.DLL!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: [Callstack] 0x00007ffbc87c26a1 ntdll.dll!UnknownFunction []
+[2023.02.24-06.41.57:481][278]LogOutputDevice: Error: 
+[2023.02.24-06.41.57:482][278]LogStats:                SubmitErrorReport -  0.000 s
+[2023.02.24-06.41.59:798][278]LogStats:                    SendNewReport -  2.317 s
+[2023.02.24-06.41.59:798][278]LogStats:             FDebug::EnsureFailed -  3.312 s
+[2023.02.24-06.41.59:836][278]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2023.02.24-06.42.02:756][278]LogSlate: Window 'Save Content' being destroyed
+[2023.02.24-06.42.02:837][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BlueprintComponents/BPC_Inventory" FILE="F:/Horror game/Horrorgame/Content/Blueprints/BlueprintComponents/BPC_Inventory.uasset" SILENT=true
+[2023.02.24-06.42.02:995][278]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/BPC_Inventory333BEE73437D076268DB2F86D750AA8C.tmp' to 'F:/Horror game/Horrorgame/Content/Blueprints/BlueprintComponents/BPC_Inventory.uasset'
+[2023.02.24-06.42.03:000][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryDropDown" FILE="F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventoryDropDown.uasset" SILENT=true
+[2023.02.24-06.42.03:047][278]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventoryDropDownC17D4D1F45196FB0C60F9A8BC507A2CD.tmp' to 'F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventoryDropDown.uasset'
+[2023.02.24-06.42.03:049][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryMenu" FILE="F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventoryMenu.uasset" SILENT=true
+[2023.02.24-06.42.03:086][278]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventoryMenu9CB081D8498F4F7AADFB058B61BDCB23.tmp' to 'F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventoryMenu.uasset'
+[2023.02.24-06.42.03:088][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventorySlot" FILE="F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventorySlot.uasset" SILENT=true
+[2023.02.24-06.42.03:121][278]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventorySlot6AD953734EEF15B137B17DA48478640C.tmp' to 'F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventorySlot.uasset'
+[2023.02.24-06.42.03:168][278]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.24-06.42.03:168][278]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2023.02.24-06.42.03:168][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventoryDropDown.W_InventoryDropDown
+[2023.02.24-06.42.03:168][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu
+[2023.02.24-06.42.03:168][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2023.02.24-06.42.25:791][590]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SASHREEK\Downloads\Separator.png)
+[2023.02.24-06.42.25:798][590]LogTexture: Display: Building textures: Separator (BGRA8, 560X5)
+[2023.02.24-06.42.34:808][682]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Separator.Separator
+[2023.02.24-06.42.34:840][682]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.02.24-06.44.43:461][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Separator" FILE="F:/Horror game/Horrorgame/Content/Textures/Separator.uasset" SILENT=true
+[2023.02.24-06.44.43:467][126]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/SeparatorB875718A495F9A9E5C75D898BC428048.tmp' to 'F:/Horror game/Horrorgame/Content/Textures/Separator.uasset'
+[2023.02.24-06.44.43:488][126]AssetCheck: New page: Asset Save: Separator
+[2023.02.24-06.44.43:488][126]LogContentValidation: Display: Validating Texture2D /Game/Textures/Separator.Separator
+[2023.02.24-06.44.44:221][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Separator" FILE="F:/Horror game/Horrorgame/Content/Textures/Separator.uasset" SILENT=true
+[2023.02.24-06.44.44:235][168]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/Separator67B1D5904D4B97BC9228078D63C4219B.tmp' to 'F:/Horror game/Horrorgame/Content/Textures/Separator.uasset'
+[2023.02.24-06.44.44:250][168]AssetCheck: New page: Asset Save: Separator
+[2023.02.24-06.44.44:250][168]LogContentValidation: Display: Validating Texture2D /Game/Textures/Separator.Separator
+[2023.02.24-06.44.44:372][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Separator" FILE="F:/Horror game/Horrorgame/Content/Textures/Separator.uasset" SILENT=true
+[2023.02.24-06.44.44:384][174]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/Separator50B017DE4399153769D2909B738B3A0D.tmp' to 'F:/Horror game/Horrorgame/Content/Textures/Separator.uasset'
+[2023.02.24-06.44.44:402][174]AssetCheck: New page: Asset Save: Separator
+[2023.02.24-06.44.44:402][174]LogContentValidation: Display: Validating Texture2D /Game/Textures/Separator.Separator
+[2023.02.24-06.45.29:445][306]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_14.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.46.01:936][306]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_15.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.46.05:900][543]LogEditorTransaction: Undo Add Widget
+[2023.02.24-06.46.05:962][543]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_16.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.46.09:859][751]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Engine/Transient.World_8:W_InventoryMenu_C_17.WidgetTree_0.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:029A
+[2023.02.24-06.47.23:502][885]BlueprintLog: New page: Compile W_InventoryMenu
+[2023.02.24-06.47.23:626][885]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2023.02.24-06.47.24:123][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryMenu" FILE="F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventoryMenu.uasset" SILENT=true
+[2023.02.24-06.47.24:159][906]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventoryMenu89C4573A444AD9FBEDD795BB5E8C8C32.tmp' to 'F:/Horror game/Horrorgame/Content/UMG/Inventory/W_InventoryMenu.uasset'
+[2023.02.24-06.47.24:171][906]AssetCheck: New page: Asset Save: W_InventoryMenu
+[2023.02.24-06.47.24:172][906]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu
+[2023.02.24-06.47.55:019][743]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.24-06.51.30:299][379]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2023.02.24-06.51.30:301][379]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.094
+[2023.02.24-06.51.30:302][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/Inventory/W_InventoryMenu] ([1] browsable assets)...
+[2023.02.24-06.51.30:302][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryMenu]
+[2023.02.24-06.51.30:302][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryMenu" FILE="F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.24-06.51.30:335][379]LogSavePackage: Moving 'F:/Horror game/Horrorgame/Saved/W_InventoryMenu_Auto2BADBB25D473F16998A81158F7206A12C.tmp' to 'F:/Horror game/Horrorgame/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto2.uasset'
+[2023.02.24-06.51.30:335][379]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.02.24-06.55.25:734][886]LogEditorTransaction: Undo Edit Text
+[2023.02.24-06.55.25:744][886]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.24-06.55.26:179][886]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.435 s
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: 
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: 
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: Stack: 
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb5792c918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56df0cf0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56da1e1a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb51c062e7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb51b31f98 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb51bbf6d2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb51c54f99 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb40039bc3 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb4ef5b33a UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb4ef3a2b9 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb58830050 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb5862f418 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb5862fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb585d8d05 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb3f82945c UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb3f89d9c2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb3f865e76 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb3f82557b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb3f987c49 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb3f966e1b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb53ec1b59 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb44b34d6e UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb570f4ecd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb53ec55f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56da22ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56dc73b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56db2d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56e4ea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb56deec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb53ec25c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb585d9ada UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb586103de UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb575c568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb575b3221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb585a1041 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb5861224d UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb58607b0f UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb59b94918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb59b8242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb59b97195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb59b7ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffbc6eee7e8 USER32.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffbc6eee229 USER32.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffb59b98699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3b6db0 UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3cc3ec UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3cc4ca UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3dceae UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ff6bd3dfcbe UE4Editor.exe!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffbc71b7614 KERNEL32.DLL!UnknownFunction []
+[2023.02.24-06.55.26:179][886]LogOutputDevice: Error: [Callstack] 0x00007ffbc87c26a1 ntdll.dll!UnknownFunction []
+[2023.02.24-06.55.26:180][886]LogOutputDevice: Error: 
+[2023.02.24-06.55.26:182][886]LogStats:                SubmitErrorReport -  0.000 s
