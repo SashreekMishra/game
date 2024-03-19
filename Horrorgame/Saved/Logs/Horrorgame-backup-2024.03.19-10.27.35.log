@@ -1,0 +1,878 @@
+﻿Log file open, 03/19/24 15:53:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Horrorgame.uproject
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.273176
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.03.19-10.23.55:551][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.03.19-10.23.55:552][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:552][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:557][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:557][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.03.19-10.23.55:558][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.03.19-10.23.55:559][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.03.19-10.23.55:560][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.19-10.23.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.19-10.23.55:561][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:561][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.03.19-10.23.55:561][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.03.19-10.23.55:561][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2024.03.19-10.23.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2024.03.19-10.23.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2024.03.19-10.23.55:561][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.19-10.23.55:561][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.03.19-10.23.55:594][  0]LogHAL: Display: Platform has ~ 16 GB [17073356800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.03.19-10.23.55:594][  0]LogInit: Going up to parent DeviceProfile []
+[2024.03.19-10.23.55:595][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:595][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.03.19-10.23.55:595][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.03.19-10.23.55:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.03.19-10.23.55:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:598][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.03.19-10.23.55:598][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.03.19-10.23.55:599][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.03.19-10.23.55:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.03.19-10.23.55:601][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.03.19-10.23.55:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.03.19-10.23.55:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.03.19-10.23.55:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.03.19-10.23.55:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.03.19-10.23.55:602][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.03.19-10.23.55:603][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.03.19-10.23.55:613][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.03.19-10.23.55:613][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.03.19-10.23.55:613][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.03.19-10.23.55:613][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.03.19-10.23.55:614][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.03.19-10.23.55:615][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.03.19-10.23.55:616][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.03.19-10.23.55:616][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.03.19-10.23.55:616][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.03.19-10.23.55:616][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.03.19-10.23.55:616][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.03.19-10.23.55:616][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Scalability.ini]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2024.03.19-10.23.55:621][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.03.19-10.23.55:636][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.03.19-10.23.55:636][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.03.19-10.23.55:636][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Config/Windows/Engine.ini]
+[2024.03.19-10.23.55:638][  0]LogInit: Computer: DESKTOP-612FG3T
+[2024.03.19-10.23.55:638][  0]LogInit: User: SASHREEK
+[2024.03.19-10.23.55:638][  0]LogInit: CPU Page size=4096, Cores=2
+[2024.03.19-10.23.55:638][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.03.19-10.23.55:638][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.03.19-10.23.55:638][  0]LogMemory: Platform Memory Stats for Windows
+[2024.03.19-10.23.55:638][  0]LogMemory: Process Physical Memory: 105.57 MB used, 105.57 MB peak
+[2024.03.19-10.23.55:638][  0]LogMemory: Process Virtual Memory: 99.59 MB used, 99.59 MB peak
+[2024.03.19-10.23.55:638][  0]LogMemory: Physical Memory: 7213.68 MB used,  9068.74 MB free, 16282.42 MB total
+[2024.03.19-10.23.55:638][  0]LogMemory: Virtual Memory: 5117.25 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2024.03.19-10.23.55:671][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.03.19-10.23.55:782][  0]LogInit: Using OS detected language (en-US).
+[2024.03.19-10.23.55:782][  0]LogInit: Using OS detected locale (en-IN).
+[2024.03.19-10.23.55:783][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.03.19-10.23.56:175][  0]LogInit: Setting process to per monitor DPI aware
+[2024.03.19-10.23.56:498][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.03.19-10.23.56:498][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.03.19-10.23.58:000][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.03.19-10.23.58:000][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.03.19-10.23.58:000][  0]LogD3D11RHI: D3D11 adapters:
+[2024.03.19-10.23.58:706][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M440' (Feature Level 11_0)
+[2024.03.19-10.23.58:706][  0]LogD3D11RHI:       4086/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2024.03.19-10.23.58:786][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2024.03.19-10.23.58:786][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.03.19-10.23.58:790][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.03.19-10.23.58:790][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.03.19-10.23.58:790][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.03.19-10.23.58:801][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.03.19-10.23.58:802][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2024.03.19-10.23.58:802][  0]LogWindows: EnumDisplayDevices:
+[2024.03.19-10.23.58:802][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2024.03.19-10.23.58:803][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2024.03.19-10.23.58:803][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2024.03.19-10.23.58:804][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.03.19-10.23.58:804][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M440
+[2024.03.19-10.23.58:804][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.03.19-10.23.58:804][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.03.19-10.23.58:804][  0]LogRHI: Texture pool is 2860 MB (70% of 4086 MB)
+[2024.03.19-10.23.58:876][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2024.03.19-10.23.58:876][  0]LogD3D11RHI: Async texture creation enabled
+[2024.03.19-10.23.58:907][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2024.03.19-10.23.59:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.03.19-10.23.59:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.03.19-10.23.59:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.03.19-10.23.59:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.03.19-10.23.59:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.03.19-10.23.59:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.03.19-10.23.59:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.03.19-10.23.59:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.03.19-10.23.59:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.03.19-10.23.59:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.03.19-10.23.59:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.03.19-10.23.59:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.03.19-10.23.59:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.03.19-10.23.59:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.03.19-10.23.59:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.03.19-10.23.59:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.03.19-10.23.59:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.03.19-10.23.59:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.03.19-10.23.59:923][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.03.19-10.23.59:938][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.03.19-10.24.00:009][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Intermediate/Shaders/WorkingDirectory/9028/).
+[2024.03.19-10.24.00:010][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SASHREEK/AppData/Local/Temp/UnrealShaderWorkingDir/819DA9D54BE7122AB2EBB4A8DEADFB27/'.
+[2024.03.19-10.24.00:010][  0]LogXGEController: Cleaning working directory: C:/Users/SASHREEK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.03.19-10.24.00:011][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.03.19-10.24.00:011][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.03.19-10.24.00:011][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.03.19-10.24.02:239][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.03.19-10.24.02:415][  0]LogDerivedDataCache: Loaded boot cache 0.18s 78MB C:/Users/SASHREEK/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2024.03.19-10.24.02:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SASHREEK/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2024.03.19-10.24.02:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.03.19-10.24.02:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.03.19-10.24.02:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.19-10.24.02:415][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.03.19-10.24.02:432][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.03.19-10.24.02:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.19-10.24.02:432][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.03.19-10.24.02:798][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SASHREEK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.03.19-10.24.02:798][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.03.19-10.24.02:798][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.03.19-10.24.02:937][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.03.19-10.24.02:942][  0]LogSlate: Using FreeType 2.10.0
+[2024.03.19-10.24.02:965][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.03.19-10.24.03:831][  0]LogAssetRegistry: FAssetRegistry took 0.1487 seconds to start up
+[2024.03.19-10.24.07:008][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.19-10.24.07:800][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.03.19-10.24.07:800][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.03.19-10.24.07:800][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.03.19-10.24.07:800][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.03.19-10.24.07:802][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.03.19-10.24.07:857][  0]LogNetVersion: Horrorgame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3645283032)
+[2024.03.19-10.24.12:672][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.118995 seconds
+[2024.03.19-10.24.12:687][  0]LogUObjectArray: 46288 objects as part of root set at end of initial load.
+[2024.03.19-10.24.12:687][  0]LogUObjectAllocator: 8062376 out of 0 bytes used by permanent object pool.
+[2024.03.19-10.24.12:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.03.19-10.24.13:541][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.03.19-10.24.13:551][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.03.19-10.24.13:662][  0]SourceControl: Source control is disabled
+[2024.03.19-10.24.13:663][  0]SourceControl: Source control is disabled
+[2024.03.19-10.24.13:667][  0]SourceControl: Source control is disabled
+[2024.03.19-10.24.13:670][  0]SourceControl: Source control is disabled
+[2024.03.19-10.24.13:673][  0]SourceControl: Source control is disabled
+[2024.03.19-10.24.13:934][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.03.19-10.24.13:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.19-10.24.13:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.19-10.24.14:147][  0]LogOcInput: OculusInput pre-init called
+[2024.03.19-10.24.14:166][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2024.03.19-10.24.14:166][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2024.03.19-10.24.14:373][  0]LogEngine: Initializing Engine...
+[2024.03.19-10.24.14:376][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.03.19-10.24.15:147][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.03.19-10.24.15:160][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-10.24.15:192][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.19-10.24.15:193][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-10.24.15:194][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.03.19-10.24.15:194][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Is Default: Yes
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2024.03.19-10.24.15:260][  0]LogAudioMixer: Display: Channel Order:
+[2024.03.19-10.24.15:261][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.19-10.24.15:261][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.03.19-10.24.15:679][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2024.03.19-10.24.15:709][  0]LogInit: FAudioDevice initialized.
+[2024.03.19-10.24.15:709][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.03.19-10.24.16:260][  0]LogDerivedDataCache: Saved boot cache 0.55s 78MB C:/Users/SASHREEK/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2024.03.19-10.24.16:261][  0]LogInit: Texture streaming: Enabled
+[2024.03.19-10.24.16:291][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.03.19-10.24.16:291][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.03.19-10.24.16:297][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.03.19-10.24.16:865][  0]LogInit: Transaction tracking system initialized
+[2024.03.19-10.24.16:899][  0]BlueprintLog: New page: Editor Load
+[2024.03.19-10.24.17:041][  0]LocalizationService: Localization service is disabled
+[2024.03.19-10.24.17:842][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.03.19-10.24.17:842][  0]LogCook: Display: Mobile HDR setting 1
+[2024.03.19-10.24.17:972][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Content/' took 0.07s
+[2024.03.19-10.24.18:254][  0]SourceControl: Source control is disabled
+[2024.03.19-10.24.18:255][  0]Cmd: MAP LOAD FILE="C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.19-10.24.18:256][  0]LightingResults: New page: Lighting Build
+[2024.03.19-10.24.18:257][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-10.24.18:257][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-10.24.18:257][  0]MapCheck: New page: Map Check
+[2024.03.19-10.24.18:257][  0]LightingResults: New page: Lighting Build
+[2024.03.19-10.24.19:196][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.03.19-10.24.19:757][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.03.19-10.24.19:768][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.19-10.24.19:825][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2024.03.19-10.24.19:826][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.19-10.24.19:827][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.071ms to complete.
+[2024.03.19-10.24.19:827][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.572
+[2024.03.19-10.24.20:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-10.24.20:019][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-10.24.20:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-10.24.20:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-10.24.20:051][  0]LogCollectionManager: Loaded 0 collections in 0.001472 seconds
+[2024.03.19-10.24.20:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Saved/Collections/' took 0.00s
+[2024.03.19-10.24.20:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Content/Developers/SASHREEK/Collections/' took 0.00s
+[2024.03.19-10.24.20:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Content/Collections/' took 0.00s
+[2024.03.19-10.24.20:069][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3009 classes and 710 folders.
+[2024.03.19-10.24.20:073][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.03.19-10.24.20:193][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.03.19-10.24.20:205][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2024.03.19-10.24.20:383][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.19-10.24.20:393][  0]LogSlate: Took 0.001311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.19-10.24.20:402][  0]LogSlate: Took 0.000936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.19-10.24.20:564][  0]LogRenderer: Reallocating scene render targets to support 832x468 Format 10 NumSamples 1 (Frame:1).
+[2024.03.19-10.24.21:087][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.03.19-10.24.21:087][  0]LogLoad: (Engine Initialization) Total time: 29.08 seconds
+[2024.03.19-10.24.21:087][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.03.19-10.24.21:163][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.03.19-10.24.21:173][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.19-10.24.26:267][168]LogAssetRegistry: Asset discovery search completed in 22.5692 seconds
+[2024.03.19-10.24.26:285][168]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2024.03.19-10.25.18:834][436]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.19-10.25.19:027][436]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu_C:ShowItemInfo.ItemData'. Unknown structure.
+[2024.03.19-10.25.19:028][436]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu_C:ExecuteUbergraph_W_InventoryMenu.K2Node_CustomEvent_ItemData'. Unknown structure.
+[2024.03.19-10.25.19:031][436]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot_C:ItemData'. Unknown structure.
+[2024.03.19-10.25.19:042][436]LogClass: Warning: Property ItemData of ItemData has a struct type mismatch (tag STRUCT_REINST_S_ItemData_0 != prop FallbackStruct) in package:  C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Content/UMG/Inventory/W_InventorySlot.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2024.03.19-10.25.19:408][436]LogClass: Warning: Property ItemData of ItemData has a struct type mismatch (tag FallbackStruct != prop S_ItemData) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2024.03.19-10.25.20:212][436]LogAIModule: Creating AISystem for world Level1
+[2024.03.19-10.25.20:222][436]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.03.19-10.25.20:223][436]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.03.19-10.25.20:257][436]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2024.03.19-10.25.20:302][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2024.03.19-10.25.20:304][436]Cmd: MAP LOAD FILE="C:/Users/SASHREEK/OneDrive/Desktop/game/Horror game/game/Horrorgame/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.19-10.25.20:304][436]LightingResults: New page: Lighting Build
+[2024.03.19-10.25.20:306][436]LoadErrors: New page: Loading map: Level1.umap
+[2024.03.19-10.25.20:307][436]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-10.25.20:307][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-10.25.20:307][436]MapCheck: New page: Map Check
+[2024.03.19-10.25.20:307][436]LightingResults: New page: Lighting Build
+[2024.03.19-10.25.20:337][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.03.19-10.25.20:490][436]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.19-10.25.20:516][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.03.19-10.25.20:558][436]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.19-10.25.20:559][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2024.03.19-10.25.20:559][436]LogFileHelpers: Loading map 'Level1' took 0.256
+[2024.03.19-10.25.20:658][437]LogRenderer: Scene Capture has ShowOnlyComponents or ShowOnlyActors ignored by the PrimitiveRenderMode setting! /Game/Maps/Level1.Level1:PersistentLevel.SceneCapture2D5.NewSceneCaptureComponent2D
+[2024.03.19-10.25.20:672][438]LogRenderer: Reallocating scene render targets to support 832x512 Format 10 NumSamples 1 (Frame:1).
+[2024.03.19-10.25.20:709][439]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2024.03.19-10.25.25:193][521]LogBlueprint: Warning: [Compiler Bproomtarget] Set Radius  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.03.19-10.25.25:213][521]LogBlueprint: Warning: [Compiler BTlastplayerlocation] 'Player Controller' does not inherit from 'Character' ( Cast To PlayerController  would always fail).
+[2024.03.19-10.25.25:521][521]LogTexture: Display: Building textures: Light6_diff (AutoDXT, 240X240)
+[2024.03.19-10.25.25:521][521]LogTexture: Display: Building textures: 63diff (AutoDXT, 480X480)
+[2024.03.19-10.25.25:521][521]LogStaticMesh: Building static mesh Hospital_part1_low_Hospital01...
+[2024.03.19-10.25.29:314][521]LogTexture: Display: Building textures: 62diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.29:314][521]LogTexture: Display: Building textures: 61norm (BC5, 480X480)
+[2024.03.19-10.25.29:314][521]LogTexture: Display: Building textures: 61diff (AutoDXT, 480X480)
+[2024.03.19-10.25.29:314][521]LogTexture: Display: Building textures: 60diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.29:314][521]LogTexture: Display: Building textures: 5norm (BC5, 1920X1920)
+[2024.03.19-10.25.29:314][521]LogTexture: Display: Building textures: 5diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.29:314][521]LogStaticMesh: Built static mesh [3.79s] /Game/mapss/wef/Hospital_part1_low_Hospital01.Hospital_part1_low_Hospital01
+[2024.03.19-10.25.29:799][521]LogMaterial: Display: Missing cached shader map for material Mirror_m, compiling. 
+[2024.03.19-10.25.29:864][521]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2024.03.19-10.25.29:864][521]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2024.03.19-10.25.29:864][521]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2024.03.19-10.25.29:864][521]LogMaterial: Display: Missing cached shader map for material Light_blue_m, compiling. 
+[2024.03.19-10.25.29:896][521]LogMaterial: Display: Missing cached shader map for material Light6_m, compiling. 
+[2024.03.19-10.25.29:923][521]LogMaterial: Display: Missing cached shader map for material Light5_m, compiling. 
+[2024.03.19-10.25.29:958][521]LogMaterial: Display: Missing cached shader map for material Light4_m, compiling. 
+[2024.03.19-10.25.29:989][521]LogMaterial: Display: Missing cached shader map for material Light3_m, compiling. 
+[2024.03.19-10.25.30:019][521]LogMaterial: Display: Missing cached shader map for material 63m, compiling. 
+[2024.03.19-10.25.30:052][521]LogMaterial: Display: Missing cached shader map for material 62m, compiling. 
+[2024.03.19-10.25.30:097][521]LogMaterial: Display: Missing cached shader map for material 61m, compiling. 
+[2024.03.19-10.25.30:139][521]LogTexture: Display: Building textures: 59diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.30:139][521]LogMaterial: Display: Missing cached shader map for material 60m, compiling. 
+[2024.03.19-10.25.32:148][521]LogMaterial: Display: Missing cached shader map for material 5m, compiling. 
+[2024.03.19-10.25.33:864][521]LogTexture: Display: Building textures: 58diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.33:864][521]LogMaterial: Display: Missing cached shader map for material 59m, compiling. 
+[2024.03.19-10.25.36:067][521]LogTexture: Display: Building textures: 57norm (BC5, 1920X1920)
+[2024.03.19-10.25.36:067][521]LogTexture: Display: Building textures: 57diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.36:067][521]LogMaterial: Display: Missing cached shader map for material 58m, compiling. 
+[2024.03.19-10.25.38:497][521]LogTexture: Display: Building textures: 69norm (BC5, 1920X1920)
+[2024.03.19-10.25.38:497][521]LogTexture: Display: Building textures: 69diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.38:497][521]LogTexture: Display: Building textures: 6diff (AutoDXT, 480X480)
+[2024.03.19-10.25.38:612][521]LogTexture: Display: Building textures: 6norm (BC5, 480X480)
+[2024.03.19-10.25.38:670][521]LogMaterial: Display: Missing cached shader map for material 6m, compiling. 
+[2024.03.19-10.25.40:282][521]LogTexture: Display: Building textures: 68norm (BC5, 1920X1920)
+[2024.03.19-10.25.40:282][521]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 211
+[2024.03.19-10.25.40:282][521]LogTexture: Display: Building textures: 68diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.40:282][521]LogMaterial: Display: Missing cached shader map for material 69m, compiling. 
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 67norm (BC5, 720X360)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 67diff (AutoDXT, 720X360)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 66diff (AutoDXT, 120X120)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 65norm (BC5, 480X480)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 65diff (AutoDXT, 480X480)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 64norm (BC5, 960X960)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 64diff (AutoDXT, 960X960)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 56norm (BC5, 1920X1920)
+[2024.03.19-10.25.44:020][521]LogTexture: Display: Building textures: 56diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.44:020][521]LogMaterial: Display: Missing cached shader map for material 68m, compiling. 
+[2024.03.19-10.25.44:064][521]LogMaterial: Display: Missing cached shader map for material 67m, compiling. 
+[2024.03.19-10.25.44:108][521]LogMaterial: Display: Missing cached shader map for material 66m, compiling. 
+[2024.03.19-10.25.44:148][521]LogMaterial: Display: Missing cached shader map for material 65m, compiling. 
+[2024.03.19-10.25.44:203][521]LogMaterial: Display: Missing cached shader map for material 64m, compiling. 
+[2024.03.19-10.25.44:246][521]LogTexture: Display: Building textures: 55diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.44:246][521]LogMaterial: Display: Missing cached shader map for material 57m, compiling. 
+[2024.03.19-10.25.46:853][521]LogMaterial: Display: Missing cached shader map for material 56m, compiling. 
+[2024.03.19-10.25.47:892][521]LogTexture: Display: Building textures: 54norm (BC5, 1920X1920)
+[2024.03.19-10.25.47:892][521]LogTexture: Display: Building textures: 54diff (AutoDXT, 1920X1920)
+[2024.03.19-10.25.47:892][521]LogMaterial: Display: Missing cached shader map for material 55m, compiling. 
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: 53norm (BC5, 960X960)
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: 53diff (AutoDXT, 960X960)
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: 52norm (BC5, 960X960)
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: 52diff (AutoDXT, 960X960)
+[2024.03.19-10.25.51:423][521]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 336
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: 51norm (BC5, 480X480)
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: 51diff (AutoDXT, 480X480)
+[2024.03.19-10.25.51:423][521]LogTexture: Display: Building textures: glass_norm (BC5, 2048X2048)
+[2024.03.19-10.25.51:423][521]LogMaterial: Display: Missing cached shader map for material 54m, compiling. 
+[2024.03.19-10.25.51:460][521]LogTexture: Display: Building textures: decal2norm (BC5, 1920X480)
+[2024.03.19-10.25.51:461][521]LogMaterial: Display: Missing cached shader map for material 53m, compiling. 
+[2024.03.19-10.25.51:492][521]LogMaterial: Display: Missing cached shader map for material 52m, compiling. 
+[2024.03.19-10.25.51:544][521]LogMaterial: Display: Missing cached shader map for material 51m, compiling. 
+[2024.03.19-10.25.51:577][521]LogMaterial: Display: Missing cached shader map for material Light2_m, compiling. 
+[2024.03.19-10.25.51:612][521]LogMaterial: Display: Missing cached shader map for material Light1_m, compiling. 
+[2024.03.19-10.25.51:660][521]LogTexture: Display: Building textures: decal2diff (AutoDXT, 1920X480)
+[2024.03.19-10.25.51:660][521]LogMaterial: Display: Missing cached shader map for material Light0_m2, compiling. 
+[2024.03.19-10.25.51:690][521]LogMaterial: Display: Missing cached shader map for material Light0_m1, compiling. 
+[2024.03.19-10.25.51:718][521]LogMaterial: Display: Missing cached shader map for material Light0_m, compiling. 
+[2024.03.19-10.25.52:032][521]LogMaterial: Display: Missing cached shader map for material GLASS_Dark_Master, compiling. 
+[2024.03.19-10.25.52:069][521]LogTexture: Display: Building textures: decal1norm (BC5, 960X960)
+[2024.03.19-10.25.52:069][521]LogMaterial: Display: Missing cached shader map for material GLASS_Dark_Inst, compiling. 
+[2024.03.19-10.25.52:282][521]LogTexture: Display: Building textures: decal1_diff (AutoDXT, 960X960)
+[2024.03.19-10.25.52:282][521]LogMaterial: Display: Missing cached shader map for material decal2m, compiling. 
+[2024.03.19-10.25.52:764][521]LogTexture: Display: Building textures: blood3diff (AutoDXT, 1024X1024)
+[2024.03.19-10.25.52:764][521]LogMaterial: Display: Missing cached shader map for material decal1m, compiling. 
+[2024.03.19-10.25.52:963][521]LogTexture: Display: Building textures: blood2diff (AutoDXT, 2048X2048)
+[2024.03.19-10.25.52:963][521]LogMaterial: Display: Missing cached shader map for material blood3m, compiling. 
+[2024.03.19-10.25.55:634][521]LogTexture: Display: Building textures: blood1diff (AutoDXT, 2048X2048)
+[2024.03.19-10.25.55:634][521]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 584
+[2024.03.19-10.25.55:634][521]LogTexture: Display: Building textures: 9norm (BC5, 360X120)
+[2024.03.19-10.25.55:634][521]LogTexture: Display: Building textures: 9diff (AutoDXT, 360X120)
+[2024.03.19-10.25.55:636][521]LogTexture: Display: Building textures: 8norm (BC5, 960X480)
+[2024.03.19-10.25.55:636][521]LogTexture: Display: Building textures: 8diff (AutoDXT, 960X480)
+[2024.03.19-10.25.55:636][521]LogMaterial: Display: Missing cached shader map for material blood2m, compiling. 
+[2024.03.19-10.25.55:705][521]LogMaterial: Display: Missing cached shader map for material blood1m, compiling. 
+[2024.03.19-10.25.55:759][521]LogMaterial: Display: Missing cached shader map for material 9m, compiling. 
+[2024.03.19-10.25.56:114][521]LogTexture: Display: Building textures: 86norm (BC5, 1920X1920)
+[2024.03.19-10.25.56:114][521]LogMaterial: Display: Missing cached shader map for material 8m, compiling. 
+[2024.03.19-10.25.56:559][521]LogTexture: Display: Building textures: 12diff (AutoDXT, 480X480)
+[2024.03.19-10.25.56:559][521]LogTexture: Display: Building textures: 12norm (BC5, 480X480)
+[2024.03.19-10.25.56:559][521]LogTexture: Display: Building textures: 11norm (BC5, 480X480)
+[2024.03.19-10.25.56:559][521]LogTexture: Display: Building textures: 17diff (AutoDXT, 480X480)
+[2024.03.19-10.25.56:559][521]LogMaterial: Display: Missing cached shader map for material 12m, compiling. 
+[2024.03.19-10.25.56:878][521]LogTexture: Display: Building textures: 16norm (BC5, 960X960)
+[2024.03.19-10.25.56:878][521]LogTexture: Display: Building textures: 16diff (AutoDXT, 960X960)
+[2024.03.19-10.25.56:878][521]LogTexture: Display: Building textures: 17norm (BC5, 480X480)
+[2024.03.19-10.25.56:942][521]LogTexture: Display: Building textures: 15norm (BC5, 960X960)
+[2024.03.19-10.25.56:958][521]LogMaterial: Display: Missing cached shader map for material 17m, compiling. 
+[2024.03.19-10.25.57:611][521]LogTexture: Display: Building textures: 15diff (AutoDXT, 960X960)
+[2024.03.19-10.25.57:611][521]LogMaterial: Display: Missing cached shader map for material 16m, compiling. 
+[2024.03.19-10.25.57:918][521]LogTexture: Display: Building textures: 14norm (BC5, 960X960)
+[2024.03.19-10.25.57:918][521]LogTexture: Display: Building textures: 13norm (BC5, 960X960)
+[2024.03.19-10.25.57:918][521]LogMaterial: Display: Missing cached shader map for material 15m, compiling. 
+[2024.03.19-10.25.59:278][521]LogTexture: Display: Building textures: 13diff (AutoDXT, 960X960)
+[2024.03.19-10.25.59:278][521]LogTexture: Display: Building textures: 14diff (AutoDXT, 960X960)
+[2024.03.19-10.25.59:278][521]LogMaterial: Display: Missing cached shader map for material 13m, compiling. 
+[2024.03.19-10.25.59:307][521]LogMaterial: Display: Missing cached shader map for material 14m, compiling. 
+[2024.03.19-10.25.59:428][521]LogTexture: Display: Building textures: 27norm (BC5, 1920X1920)
+[2024.03.19-10.25.59:428][521]LogTexture: Display: Building textures: 28diff (AutoDXT, 960X960)
+[2024.03.19-10.26.01:018][521]LogTexture: Display: Building textures: 27diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.01:018][521]LogTexture: Display: Building textures: 26norm (BC5, 1920X1920)
+[2024.03.19-10.26.01:110][521]LogTexture: Display: Building textures: 28norm (BC5, 960X960)
+[2024.03.19-10.26.01:338][521]LogTexture: Display: Building textures: 26diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.01:382][521]LogMaterial: Display: Missing cached shader map for material 28m, compiling. 
+[2024.03.19-10.26.01:808][521]LogMaterial: Display: Missing cached shader map for material 27m, compiling. 
+[2024.03.19-10.26.06:973][521]LogTexture: Display: Building textures: 25norm (BC5, 1920X1920)
+[2024.03.19-10.26.06:973][521]LogTexture: Display: Building textures: 25diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.06:973][521]LogMaterial: Display: Missing cached shader map for material 26m, compiling. 
+[2024.03.19-10.26.07:963][521]LogTexture: Display: Building textures: 24norm (BC5, 960X960)
+[2024.03.19-10.26.07:963][521]LogTexture: Display: Building textures: 24diff (AutoDXT, 960X960)
+[2024.03.19-10.26.07:963][521]LogTexture: Display: Building textures: 23norm (BC5, 960X960)
+[2024.03.19-10.26.07:963][521]LogMaterial: Display: Missing cached shader map for material 25m, compiling. 
+[2024.03.19-10.26.08:024][521]LogTexture: Display: Building textures: 23diff (AutoDXT, 960X960)
+[2024.03.19-10.26.08:024][521]LogMaterial: Display: Missing cached shader map for material 24m, compiling. 
+[2024.03.19-10.26.09:153][521]LogTexture: Display: Building textures: 22norm (BC5, 960X960)
+[2024.03.19-10.26.09:153][521]LogTexture: Display: Building textures: 22diff (AutoDXT, 960X960)
+[2024.03.19-10.26.09:153][521]LogMaterial: Display: Missing cached shader map for material 23m, compiling. 
+[2024.03.19-10.26.09:907][521]LogTexture: Display: Building textures: 77norm (BC5, 1920X1920)
+[2024.03.19-10.26.09:908][521]LogTexture: Display: Building textures: 77diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.09:908][521]LogTexture: Display: Building textures: 78diff (AutoDXT, 3840X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 76norm (BC5, 1920X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 76diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 75norm (BC5, 960X960)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 75diff (AutoDXT, 960X960)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 74norm (BC5, 1920X480)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 74diff (AutoDXT, 1920X480)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 73norm (BC5, 1920X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 73diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 72norm (BC5, 1920X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 72diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 48norm (BC5, 960X960)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 48diff (AutoDXT, 960X960)
+[2024.03.19-10.26.22:041][521]LogTexture: Display: Building textures: 47norm (BC5, 1920X1920)
+[2024.03.19-10.26.22:931][521]LogTexture: Display: Building textures: 47diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.22:931][521]LogTexture: Display: Building textures: 46norm (BC5, 1920X1920)
+[2024.03.19-10.26.22:931][521]LogTexture: Display: Building textures: 78norm (BC5, 3840X1920)
+[2024.03.19-10.26.31:715][521]LogTexture: Display: Building textures: 46diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.31:715][521]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2024.03.19-10.26.31:715][521]LogTexture: Display: Building textures: 86diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.31:715][521]LogTexture: Display: Building textures: 85diff (AutoDXT, 512X256)
+[2024.03.19-10.26.31:715][521]LogTexture: Display: Building textures: 84norm (BC5, 1920X1920)
+[2024.03.19-10.26.31:715][521]LogTexture: Display: Building textures: 84diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.32:287][521]LogMaterial: Display: Missing cached shader map for material 78m, compiling. 
+[2024.03.19-10.26.32:913][521]LogMaterial: Display: Missing cached shader map for material 77m, compiling. 
+[2024.03.19-10.26.33:583][521]LogMaterial: Display: Missing cached shader map for material 76m, compiling. 
+[2024.03.19-10.26.34:115][521]LogMaterial: Display: Missing cached shader map for material 75m, compiling. 
+[2024.03.19-10.26.34:763][521]LogMaterial: Display: Missing cached shader map for material 74m, compiling. 
+[2024.03.19-10.26.35:431][521]LogMaterial: Display: Missing cached shader map for material 73m, compiling. 
+[2024.03.19-10.26.36:532][521]LogTexture: Display: Building textures: 49diff (AutoDXT, 960X960)
+[2024.03.19-10.26.47:135][521]LogTexture: Display: Building textures: 83norm (BC5, 1920X1920)
+[2024.03.19-10.26.47:135][521]LogTexture: Display: Building textures: 83diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.47:135][521]LogTexture: Display: Building textures: 82norm (BC5, 1920X1920)
+[2024.03.19-10.26.47:135][521]LogTexture: Display: Building textures: 82diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.47:382][521]LogTexture: Display: Building textures: 49norm (BC5, 960X960)
+[2024.03.19-10.26.47:880][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2024.03.19-10.26.47:895][521]LogMaterial: Display: Missing cached shader map for material 49m, compiling. 
+[2024.03.19-10.26.47:983][521]LogMaterial: Display: Missing cached shader map for material 48m, compiling. 
+[2024.03.19-10.26.48:102][521]LogMaterial: Display: Missing cached shader map for material 47m, compiling. 
+[2024.03.19-10.26.48:143][521]LogMaterial: Display: Missing cached shader map for material 86m, compiling. 
+[2024.03.19-10.26.48:257][521]LogMaterial: Display: Missing cached shader map for material 85m, compiling. 
+[2024.03.19-10.26.48:369][521]LogMaterial: Display: Missing cached shader map for material 84m, compiling. 
+[2024.03.19-10.26.48:811][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2024.03.19-10.26.48:811][521]LogTexture: Display: Building textures: 81norm (BC5, 1920X1920)
+[2024.03.19-10.26.48:811][521]LogMaterial: Display: Missing cached shader map for material 83m, compiling. 
+[2024.03.19-10.26.48:862][521]LogMaterial: Display: Missing cached shader map for material 82m, compiling. 
+[2024.03.19-10.26.54:999][521]LogTexture: Display: Building textures: 81diff (AutoDXT, 1920X1920)
+[2024.03.19-10.26.54:999][521]LogTexture: Display: Building textures: 80norm (BC5, 3840X3840)
+[2024.03.19-10.26.54:999][521]LogTexture: Display: Building textures: 80diff (AutoDXT, 3840X3840)
+[2024.03.19-10.26.54:999][521]LogMaterial: Display: Missing cached shader map for material 81m, compiling. 
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 7norm (BC5, 960X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 7diff (AutoDXT, 960X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 79norm (BC5, 1920X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 79diff (AutoDXT, 1920X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 2norm (BC5, 480X480)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 2diff (AutoDXT, 480X480)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 29norm (BC5, 960X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 29diff (AutoDXT, 960X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 32norm (BC5, 1920X1920)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 32diff (AutoDXT, 1920X1920)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 31norm (BC5, 1920X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 31diff (AutoDXT, 1920X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 30norm (BC5, 960X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 30diff (AutoDXT, 960X960)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 38norm (BC5, 1920X1920)
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 38diff (AutoDXT, 1920X1920)
+[2024.03.19-10.27.18:602][521]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1071
+[2024.03.19-10.27.18:602][521]LogTexture: Display: Building textures: 37norm (BC5, 1920X1920)
+[2024.03.19-10.27.18:602][521]LogMaterial: Display: Missing cached shader map for material 80m, compiling. 
+[2024.03.19-10.27.18:863][521]LogTexture: Display: Building textures: 37diff (AutoDXT, 1920X1920)
+[2024.03.19-10.27.18:864][521]LogMaterial: Display: Missing cached shader map for material 7m, compiling. 
+[2024.03.19-10.27.19:037][521]LogMaterial: Display: Missing cached shader map for material 79m, compiling. 
+[2024.03.19-10.27.19:091][521]LogMaterial: Display: Missing cached shader map for material 30m, compiling. 
+[2024.03.19-10.27.19:140][521]LogMaterial: Display: Missing cached shader map for material 2m, compiling. 
+[2024.03.19-10.27.19:189][521]LogMaterial: Display: Missing cached shader map for material 29m, compiling. 
+[2024.03.19-10.27.19:303][521]LogTexture: Display: Building textures: 36norm (BC5, 1920X1920)
+[2024.03.19-10.27.19:303][521]LogTexture: Display: Building textures: 33diff (AutoDXT, 480X480)
+[2024.03.19-10.27.20:057][521]LogTexture: Display: Building textures: 33norm (BC5, 480X480)
+[2024.03.19-10.27.20:250][521]LogTexture: Display: Building textures: 36diff (AutoDXT, 1920X1920)
+[2024.03.19-10.27.20:268][521]LogMaterial: Display: Missing cached shader map for material 33m, compiling. 
+[2024.03.19-10.27.20:375][521]LogMaterial: Display: Missing cached shader map for material 32m, compiling. 
+[2024.03.19-10.27.20:427][521]LogMaterial: Display: Missing cached shader map for material 31m, compiling. 
+[2024.03.19-10.27.20:527][521]LogMaterial: Display: Missing cached shader map for material 38m, compiling. 
+[2024.03.19-10.27.24:819][521]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1211
+[2024.03.19-10.27.24:819][521]LogMaterial: Display: Missing cached shader map for material 37m, compiling. 
+[2024.03.19-10.27.26:170][521]LogTexture: Display: Building textures: 35norm (BC5, 1920X1920)
+[2024.03.19-10.27.26:170][521]LogTexture: Display: Building textures: 35diff (AutoDXT, 1920X1920)
+[2024.03.19-10.27.26:170][521]LogMaterial: Display: Missing cached shader map for material 36m, compiling. 
+[2024.03.19-10.27.32:490][521]LogTexture: Display: Building textures: 34norm (BC5, 1800X840)
+[2024.03.19-10.27.32:490][521]LogTexture: Display: Building textures: 34diff (AutoDXT, 1800X840)
+[2024.03.19-10.27.32:491][521]LogTexture: Display: Building textures: 45norm (BC5, 960X960)
+[2024.03.19-10.27.32:491][521]LogTexture: Display: Building textures: 45diff (AutoDXT, 960X960)
+[2024.03.19-10.27.32:491][521]LogTexture: Display: Building textures: 44norm (BC5, 1920X960)
+[2024.03.19-10.27.32:491][521]LogMaterial: Display: Missing cached shader map for material 35m, compiling. 
+[2024.03.19-10.27.32:582][521]LogMaterial: Display: Missing cached shader map for material 34m, compiling. 
+[2024.03.19-10.27.32:743][521]LogTexture: Display: Building textures: 44diff (AutoDXT, 1920X960)
+[2024.03.19-10.27.32:743][521]LogMaterial: Display: Missing cached shader map for material 46m, compiling. 
+[2024.03.19-10.27.32:789][521]LogMaterial: Display: Missing cached shader map for material 45m, compiling. 
+[2024.03.19-10.27.35:044][521]LogTexture: Display: Building textures: 43norm (BC5, 960X960)
+[2024.03.19-10.27.35:044][521]LogTexture: Display: Building textures: 43diff (AutoDXT, 960X960)
+[2024.03.19-10.27.35:044][521]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1291
+[2024.03.19-10.27.35:044][521]LogTexture: Display: Building textures: 42norm (BC5, 1920X1920)
+[2024.03.19-10.27.35:044][521]LogMaterial: Display: Missing cached shader map for material 44m, compiling. 
+[2024.03.19-10.27.35:091][521]LogMaterial: Display: Missing cached shader map for material 43m, compiling. 
